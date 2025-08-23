@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# learner's repository from the template repository. 
+
 # Does a dry run by default, --dry-run=false to run live.
 
 # PURPOSE: This script establishes an initial related history for 
