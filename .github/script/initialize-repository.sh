@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Does a dry run by default, --dry-run=false to run live.
+
 
 # PURPOSE: This script establishes an initial related history for 
 # all branches. It merges main into all other branches in this repository 
