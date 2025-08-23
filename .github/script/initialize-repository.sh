@@ -1,10 +1,4 @@
 #!/usr/bin/env bash
-# Make sure this file is executable
-# chmod a+x .github/script/initialize-repository.sh
-
-# USAGE: This should only be run once upon initial creation of the
-# learner's repository from the template repository. 
-# Does a dry run by default, --dry-run=false to run live.
 
 # PURPOSE: This script establishes an initial related history for 
 # all branches. It merges main into all other branches in this repository 
