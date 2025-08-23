@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 
-
 # PURPOSE: This script establishes an initial related history for 
 # all branches. It merges main into all other branches in this repository 
 # while auto-resolving conflicts in favor of main.
