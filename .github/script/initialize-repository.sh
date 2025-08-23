@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 
-# USAGE: This should only be run once upon initial creation of the
 # learner's repository from the template repository. 
 # Does a dry run by default, --dry-run=false to run live.
 
