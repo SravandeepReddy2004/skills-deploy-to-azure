@@ -13,7 +13,7 @@ env:
   AZURE_LOCATION: '"East US"'
   
    
-  ###############################################
+  ####################
   AZURE_WEBAPP_NAME: <SravandeepReddy2004>-ttt-app
 
 jobs:
