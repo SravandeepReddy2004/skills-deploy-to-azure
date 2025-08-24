@@ -12,8 +12,6 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"East US"'
   
-   
-  ####################
   AZURE_WEBAPP_NAME: <SravandeepReddy2004>-ttt-app
 
 jobs:
